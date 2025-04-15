@@ -2,7 +2,7 @@
 
 **We are a group of programmers with musical dreams.**
 
-At justFOrDream, our story begins with a simple but powerful belief: that music and technology, when brought together by people who truly love both, can unlock new realms of creativity. We are engineers, musicians, and researchers—united by the dream of making AI a real, reliable partner for every music creator.
+At JustFOrDream, our story begins with a simple but powerful belief: that music and technology, when brought together by people who truly love both, can unlock new realms of creativity. We are engineers, musicians, and researchers—united by the dream of making AI a real, reliable partner for every music creator.
 
 ---
 
