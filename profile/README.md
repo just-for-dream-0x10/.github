@@ -1,4 +1,4 @@
-# justForDream
+# JustForDream
 
 **We are a group of programmers with musical dreams.**
 
